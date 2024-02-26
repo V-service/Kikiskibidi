@@ -4,6 +4,6 @@
 }
 
 .shop__card__purchase {
-    flex-grow: 1; /* This will make the buttons take equal width */
+    flex-grow: 2; /* This will make the buttons take equal width */
     /* Add any additional styling you need for the buttons here */
 }
