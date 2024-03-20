@@ -2,12 +2,12 @@
 
 .section__about{
     background-color: var(--backgroundSecond);
-    padding: 100px 5%;
+    padding: 100px 44%;
 }
 
 .about__title{
     font-weight: bold;
-    font-size: 44px;
+    font-size: 5px;
     color: var(--colorMain);
 }
 
@@ -40,10 +40,10 @@
 }
 
 .about__info__text{
-    width: 78%;
+    with: 78%;
 }
 
-.about__info__title{
+.about__ino__title{
     font-size: 18px;
     font-weight: 600;
     margin-bottom: 5px;
