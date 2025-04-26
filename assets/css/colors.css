@@ -4,10 +4,10 @@
 :root {
     --backgroundMain: rgb(13,13,13);
     --backgroundSecond: rgb(23,23,23);
-    --colorMain: ##ADD8E6;
+    --colorMain: #ADD8E6;
     --circleColor: ##ADD8E6;
-    --colorText: ##ADD8E6;
-    --colorDefault: ##ADD8E6;
+    --colorText: #ADD8E6;
+    --colorDefault: #ADD8E6;
 }
 
 /* LIGHT - PURPLE */
