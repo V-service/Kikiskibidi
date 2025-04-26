@@ -6,11 +6,11 @@
     animation-delay: 0s;
     width: 35px!important;
     height: 35px!important;
-    background-color: #333; /* Dark background color */
+    background-color: #ADD8E6; /* Dark background color */
 }
 
 .sellix-iframe-loader::before {
-    border-color: transparent transparent transparent #fff; /* Light spinner color */
+    border-color: transparent transparent transparent #ADD8E6; /* Light spinner color */
 }
 
 @keyframes spin {
